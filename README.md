@@ -1,2 +1,6 @@
 # Competitive_Programming_Practice
-Solutions and Practice Problems across multiple Competitive Programming Platforms.
+This repository contains solutions and Practice Problems across multiple Competitive Programming Platforms.
+
+## Language
+-c
+-Python
