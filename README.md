@@ -25,10 +25,12 @@ This repository contains solutions and Practice Problems across multiple Competi
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
