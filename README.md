@@ -35,6 +35,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0709-to-lower-case](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
