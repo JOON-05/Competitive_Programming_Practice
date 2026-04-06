@@ -12,6 +12,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2652-sum-multiples) |
@@ -64,4 +65,8 @@ This repository contains solutions and Practice Problems across multiple Competi
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
