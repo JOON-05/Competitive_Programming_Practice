@@ -12,6 +12,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0258-add-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
