@@ -17,6 +17,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -56,10 +57,12 @@ This repository contains solutions and Practice Problems across multiple Competi
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
