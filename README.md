@@ -53,6 +53,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -63,6 +64,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -72,6 +74,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
