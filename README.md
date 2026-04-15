@@ -56,6 +56,7 @@ This repository contains solutions and Practice Problems across multiple Competi
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/JOON-05/Competitive_Programming_Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
